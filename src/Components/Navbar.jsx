@@ -19,7 +19,7 @@ const Navbar = () => {
       <div className="container mx-auto flex justify-between items-center">
         <div className="flex items-center">
           <img
-            src="https://i.ibb.co/JCN0G7p/logo-portfolio.jpg"
+            src="https://i.postimg.cc/85C0K6q6/ss.png"
             alt="Logo"
             className="w-16 h-16 mr-2 rounded-2xl"
           />

@@ -15,7 +15,7 @@ function AboutMe() {
       <div className="container mx-auto flex flex-col md:flex-row items-center">
         <div className="w-full md:w-1/2 p-4">
           <img
-            src="https://i.ibb.co/9sdTRJW/Fakhrul-Islam-removebg-preview.png"
+            src="https://i.postimg.cc/63Gdp6ZP/Mohammad-Fakhrul-Islam.png"
             alt="Tazim"
             className="rounded-full w-96 h-96 mx-auto md:mx-0"
           />

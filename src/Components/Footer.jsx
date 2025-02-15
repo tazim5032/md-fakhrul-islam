@@ -9,7 +9,7 @@ function Footer() {
             <div className="container mx-auto px-4 flex flex-col md:flex-row md:justify-between items-center">
                 {/* Left Column: Logo and Name */}
                 <div className="flex items-center mb-4 md:mb-0">
-                    <img src="https://i.ibb.co/JCN0G7p/logo-portfolio.jpg" alt="Logo" className="h-12 w-12
+                    <img src="https://i.postimg.cc/63Gdp6ZP/Mohammad-Fakhrul-Islam.png" alt="Logo" className="h-12 w-12
            mr-2 rounded-full" />
                     <p className="text-lg font-bold">Mohammad Fakhrul Islam</p>
                 </div>

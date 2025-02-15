@@ -20,7 +20,7 @@ function Banner() {
           </div>
         </div>
         <div className="md:w-1/2 p-4 flex justify-center md:justify-end">
-          <img src="https://i.ibb.co/RhP5nt2/banner-img.jpg" alt="Banner" className="w-3/4 md:w-full h-auto rounded-lg shadow-lg transform transition-transform hover:scale-105" />
+          <img src="https://i.postimg.cc/NjfmrkTm/tt.png" alt="Banner" className="w-3/4 md:w-full h-auto rounded-lg shadow-lg transform transition-transform hover:scale-105" />
         </div>
       </div>
     </section>

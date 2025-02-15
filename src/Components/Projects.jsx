@@ -5,7 +5,7 @@ const Projects = () => {
   const projects = [
     {
       id: 1,
-      imageUrl: 'https://i.ibb.co/qMKcGBR/mt.png',
+      imageUrl: 'https://i.postimg.cc/Hs37H8Kx/ss.png',
       title: 'Micro Task',
       shortInfo: 'This project is a micro-task management system with different user roles and functionalities, allowing task creation, task completion, and financial transactions for task rewards.',
       liveLink: 'https://micro-task-55c95.web.app',
@@ -20,7 +20,7 @@ const Projects = () => {
     },
     {
       id: 2,
-      imageUrl: 'https://i.ibb.co/q1WrwZd/edu.png',
+      imageUrl: 'https://i.postimg.cc/cCzyMmCC/ss.png',
       title: 'EduFlow',
       shortInfo: 'This project is a full-stack web application for online group study with friends. Every registered user is considered a friend of others. Users can create assignments, complete them, and grade their friends assignments.',
       liveLink: 'https://edu-flow.firebaseapp.com',
@@ -35,7 +35,7 @@ const Projects = () => {
     },
     {
       id: 3,
-      imageUrl: 'https://i.ibb.co/hd5BFFn/arena.png',
+      imageUrl: 'https://i.postimg.cc/7LnFQDhp/ss.png',
       title: 'Ceramics Arena',
       shortInfo: 'Ceramics Arena is a web application for showcasing and selling ceramics and pottery items. It provides users with various features such as authentication, product management, and a visually appealing user interface.',
       liveLink: 'https://ceramics-arena-client.web.app',
